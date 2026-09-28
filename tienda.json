@@ -14,5 +14,13 @@
     "Peso": "25 MB",
     "EsJugable": true,
     "RequisitosMinimos": "Cualquier PC"
+  },
+  {
+    "Nombre": "Mario",
+    "Plataforma": "NES",
+    "UrlDescarga": "#",
+    "Peso": "25 MB",
+    "EsJugable": true,
+    "RequisitosMinimos": "Cualquier PC"
   }
 ]
