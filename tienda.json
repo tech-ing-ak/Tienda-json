@@ -1,19 +1,18 @@
 [
   {
-    "Nombre": "XONOTIC",
+    "Nombre": "Xonotic",
     "Plataforma": "PC",
-    "UrlDescarga": "https://archive.org/download/datos_20260926/Data.zip"
+    "UrlDescarga": "https://tu-enlace.com/archivo.zip",
+    "Peso": "950 MB",
+    "EsJugable": true,
+    "RequisitosMinimos": "GPU compatible con DirectX 11, 4GB RAM"
   },
-  
   {
     "Nombre": "Mario",
-    "Plataforma": "no hay",
-    "UrlDescarga": "#"
-  },
-
-{
-    "Nombre": "Mario",
-    "Plataforma": "no hay",
-    "UrlDescarga": "#"
+    "Plataforma": "NES",
+    "UrlDescarga": "#",
+    "Peso": "25 MB",
+    "EsJugable": true,
+    "RequisitosMinimos": "Cualquier PC"
   }
 ]
